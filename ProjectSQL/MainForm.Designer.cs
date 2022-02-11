@@ -59,19 +59,19 @@ namespace ProjectSQL
             // 
             this.from.Text = "Откуда";
             this.from.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.from.Width = 150;
+            this.from.Width = 186;
             // 
             // to
             // 
             this.to.Text = "Куда";
             this.to.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.to.Width = 150;
+            this.to.Width = 186;
             // 
             // cost
             // 
             this.cost.Text = "Стоимость";
             this.cost.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.cost.Width = 150;
+            this.cost.Width = 207;
             // 
             // AddButton
             // 
@@ -87,7 +87,7 @@ namespace ProjectSQL
             // 
             this.DeleteButton.Location = new System.Drawing.Point(606, 330);
             this.DeleteButton.Name = "DeleteButton";
-            this.DeleteButton.Size = new System.Drawing.Size(88, 33);
+            this.DeleteButton.Size = new System.Drawing.Size(88, 45);
             this.DeleteButton.TabIndex = 2;
             this.DeleteButton.Text = "Удалить";
             this.DeleteButton.UseVisualStyleBackColor = true;
